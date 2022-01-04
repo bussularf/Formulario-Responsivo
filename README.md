@@ -1,2 +1,2 @@
 # Formulario-Responsivo
-<img srg="form-login.png">
+<img src="form-login.png">
